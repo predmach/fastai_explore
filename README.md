@@ -1,12 +1,12 @@
-# Project name here
-> Summary description here.
+# FastAI Explore
+> Test UNet and DataLoaders.
 
 
-This file will become your README and also the index of your documentation.
+UNet testing on medical imaging data.
 
 ## Install
 
-`pip install your_project_name`
+`pip install fastai_ecplore`
 
 ## How to use
 
