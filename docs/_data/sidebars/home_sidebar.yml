@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: Initial FastAI tests
       url: core.html
     output: web
     title: fastai_explore
